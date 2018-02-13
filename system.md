@@ -5,7 +5,7 @@
 
 2、[Etcher](https://etcher.io/)
 
-![](https://github.com/huangqian8/homeassistant/blob/0.1/screenshots/etcher.gif)
+![](https://github.com/huangqian8/homeassistant/blob/dev/screenshots/etcher.gif)
 
 - 选择镜像文件，选择SD卡盘符，点击“Flash!”
 - 刷写完成后，用记事本新增一个空白文件，保存为ssh    **注意：无后缀名**

@@ -1,7 +1,7 @@
 # 依赖包
 
 ## 通过SSH方式连接树莓派，用户名pi，密码raspberry
-![](https://github.com/huangqian8/homeassistant/blob/0.1/screenshots/ssh.png)
+![](https://github.com/huangqian8/homeassistant/blob/dev/screenshots/ssh.png)
 
 ### 以下均为命令行指令
 1、设置时区
