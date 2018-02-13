@@ -1,4 +1,4 @@
-# Raspberry + Raspbian + Home Assistant vdev
+# Raspberry + Raspbian + Home Assistant
 
 ## Content
 * [Introduction](https://github.com/huangqian8/homeassistant/blob/dev/introduction.md)
