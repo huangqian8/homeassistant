@@ -19,5 +19,6 @@
     * Sonoff
     * [Baidu TTS](https://github.com/huangqian8/homeassistant/blob/dev/baidu_tts.md)
   * [Backup to Dropbox](https://github.com/huangqian8/homeassistant/blob/dev/backup_dropbox.md)
+  * [Backup to Github](https://github.com/huangqian8/homeassistant/blob/dev/backup_to_github.md)
   * UI
 * [Testing](https://github.com/huangqian8/homeassistant/blob/dev/testing.md)
