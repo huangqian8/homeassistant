@@ -37,7 +37,7 @@ git commit -m "Inital commit"
 * 此步骤不做展开，请自行查找教程
 ## 初始 Commit
 ```
-git remote add origin https://github.com/username/Home-AssistantConfig
+git remote add origin https://github.com/huangqian8/Home-AssistantConfig
 git push -u origin master
 ```
 ## Github with ssh
