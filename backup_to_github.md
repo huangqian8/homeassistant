@@ -26,6 +26,7 @@ home-assistant_v2.db-wal
 ```
 ## 初始化git仓库
 ```
+sudo su -s /bin/bash homeassistant
 git init
 git config user.email "you@example.com"
 git config user.name "Your Name"
