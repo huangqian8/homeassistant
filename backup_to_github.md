@@ -22,6 +22,7 @@ home-assistant_v2.db-wal
 .ios.conf
 .uuid
 .HA_VERSION
+*.pyc
 ```
 ## 初始化git仓库
 ```
