@@ -43,4 +43,5 @@ git push -u origin master
 ## Github with ssh
 ```
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+chmod 600 /home/homeassistant/.ssh/id_rsa # 权限过高会导致push失败
 ```
