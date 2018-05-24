@@ -9,9 +9,9 @@ cd
 ```
 ### 2、下载Mosquitto，编译安装
 ``` bash
-wget http://mosquitto.org/files/source/mosquitto-1.4.14.tar.gz
-tar zxvf mosquitto-1.4.14.tar.gz
-cd mosquitto-1.4.14
+wget http://mosquitto.org/files/source/mosquitto-1.5.tar.gz
+tar zxvf mosquitto-1.5.tar.gz
+cd mosquitto-1.5
 make && sudo make install
 ```
 ### 3、添加Mosquitto服务用户（homeassistant 可自行修改）并设置密码
