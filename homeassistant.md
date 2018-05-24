@@ -3,7 +3,7 @@
 > Home Assistant is an open-source home automation platform running on Python 3. Track and control all devices at home and automate control. Perfect to run on a Raspberry Pi.
 ### 1、添加用户homeassistant
 ``` bash
-sudo useradd -rm homeassistant
+sudo useradd -rm homeassistant -G dialout
 ```
 ### 2、创建HomeAssistant安装路径
 ``` bash
@@ -20,6 +20,7 @@ source bin/activate
 ```
 ### 4、(虚拟环境)安装HA
 ``` bash
+python3 -m pip install wheel
 pip3 install homeassistant
 ```
 ### 5、(虚拟环境)启动HA
