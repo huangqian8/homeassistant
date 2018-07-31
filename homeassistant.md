@@ -65,3 +65,4 @@ sudo systemctl start home-assistant
 * 查看HA运行状态：`sudo systemctl status home-assistant`
 * 更新HA：(虚拟环境)：`pip3 install --upgrade homeassistant`
 * 设置homeassistant文件夹权限：`sudo chown -R homeassistant:homeassistant /srv/homeassistant`
+* 设置配置文件夹权限：`sudo chown -R homeassistant:homeassistant /home/homeassistant/.homeassistant`
