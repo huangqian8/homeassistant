@@ -44,7 +44,7 @@ light:
   - platform: yeelight
     devices:
       192.168.1.24:  #yeelight在内网的IP地址
-        name: yeelight_white_286c07ac5a03
+        name: yeelight
         transition: 1000
         save_on_change: True
 ```
